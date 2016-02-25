@@ -1,2 +1,5 @@
 # Bonjour-World
-Repository??...another one! 
+Hello friend,
+
+Learning to use GitHub is much fun!
+Bless up.
